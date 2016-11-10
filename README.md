@@ -2,7 +2,7 @@
 
 Project made in the first year of applied informatics at the HoGent.
 
-Made together with Remko Vermaeren, Pol De Puyseleyr & Maarten Van Meersche
+Made together with Remko Vermaeren (@RemkoVermaeren), Pol De Puysseleyr (@poldepuysseleyr & Maarten Van Meersche (@MaartenVanMeersche)
 
 
 ##What is Sokoban?
