@@ -10,7 +10,7 @@ Made together with Remko Vermaeren, Pol De Puyseleyr & Maarten Van Meersche
 Sokoban is a game where a player has to move certain boxes to given places.
 More info: https://en.wikipedia.org/wiki/Sokoban
 
-#Technical
+##Technical
 
 - Language: Java
 - GUI: JavaFX
